@@ -3,7 +3,7 @@
 </div>
 
 
-I am a Competetive Programmer | Web Developer | Security Researcher<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+I am a Computer Programmer | Web Developer | Security Researcher<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
 ---
 
