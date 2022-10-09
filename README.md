@@ -7,7 +7,7 @@ I am a Competitive Programmer | Web Developer | Security Researcher<img src="htt
 
 ---
 
-### :hammer_and_wrench: Languages and Frameworks
+### :fire: hammer_and_wrench: Languages and Frameworks :
 <div>
 
   
