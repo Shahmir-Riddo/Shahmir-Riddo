@@ -14,8 +14,8 @@ I am a Competitive Programmer | Web Developer | Security Researcher<img src="htt
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg](https://commons.wikimedia.org/wiki/File:Django_logo.svg" title="Django" alt="JavaScript" width="40" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Django_logo.svg" title="Django" alt="JavaScript" width="40"/>
   
 </div>
 
