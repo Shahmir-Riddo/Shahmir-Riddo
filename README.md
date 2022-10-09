@@ -25,4 +25,4 @@ I am a Competitive Programmer | Web Developer | Security Researcher<img src="htt
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shahmir-Riddo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)]
+
