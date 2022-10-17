@@ -16,6 +16,7 @@ I am a Competitive Programmer | Web Developer | Security Researcher<img src="htt
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40">
   <img src="https://cdn.iconscout.com/icon/free/png-64/django-1-282754.png" title="Django" width="40" height="40">
+  <img src="https://www.svgrepo.com/show/327416/logo-wordpress.svg" title="Wordpress" width="40" height="40">
 
   
 </div>
