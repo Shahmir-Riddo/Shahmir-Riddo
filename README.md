@@ -3,7 +3,7 @@
 </div>
 
 
-I am a Competitive Programmer | Backend Developer | Security Researcher<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+I am a Student | Competitive Programmer | Backend Developer | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
 ---
 <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" title="Hackerrank" width="40" height="40">&nbsp;https://www.hackerrank.com/ahmedsahmirr
